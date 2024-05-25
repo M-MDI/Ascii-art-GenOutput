@@ -18,3 +18,4 @@ func HandleBanner(bannerName string) ([]string, error) {
 
 	return splitted, nil
 }
+

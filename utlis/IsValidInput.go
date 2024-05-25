@@ -21,3 +21,4 @@ func IsValidInput(text string, data []string) error {
 	}
 	return nil
 }
+
