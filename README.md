@@ -1,4 +1,4 @@
-# ASCII Art Project
+# ASCII Art Output Project
 
 This project provides a library for generating ASCII art and includes an output function to display the art. The program can write the result into a file when specified with the `--output` flag.
 
